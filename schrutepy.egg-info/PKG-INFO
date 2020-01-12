@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: schrutepy
+Version: 0.0.1
+Summary: A package to convert your Jupyter Notebook
+Home-page: https://github.com/bradlindblad/schrutepy
+Author: Brad Lindblad
+Author-email: bradley.lindblad@gmail.com
+License: UNKNOWN
+Description: schrutepy
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown

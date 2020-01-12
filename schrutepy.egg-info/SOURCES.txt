@@ -1,0 +1,7 @@
+README.md
+setup.py
+schrutepy.egg-info/PKG-INFO
+schrutepy.egg-info/SOURCES.txt
+schrutepy.egg-info/dependency_links.txt
+schrutepy.egg-info/requires.txt
+schrutepy.egg-info/top_level.txt
