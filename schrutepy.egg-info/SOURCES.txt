@@ -1,9 +1,12 @@
 README.md
+README.pdf
 requirements.txt
 setup.py
 source.R
 data/schrute.csv
 data/schrute.feather
+dist/schrutepy-0.0.17-py3-none-any.whl
+dist/schrutepy-0.0.17.tar.gz
 schrutepy/__init__.py
 schrutepy/schrutepy.py
 schrutepy.egg-info/PKG-INFO
@@ -11,3 +14,6 @@ schrutepy.egg-info/SOURCES.txt
 schrutepy.egg-info/dependency_links.txt
 schrutepy.egg-info/requires.txt
 schrutepy.egg-info/top_level.txt
+schrutepy/__pycache__/__init__.cpython-36.pyc
+schrutepy/__pycache__/schrutepy.cpython-36.pyc
+static/logo.png

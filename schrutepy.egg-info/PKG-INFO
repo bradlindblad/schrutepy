@@ -6,8 +6,18 @@ Home-page: https://github.com/bradlindblad/schrutepy
 Author: Brad Lindblad
 Author-email: bradley.lindblad@gmail.com
 License: UNKNOWN
-Description: schrutepy
+Description: 
+        ![logo](static/logo.png)
         
+        
+        
+        # Getting started
+        
+        ## Install
+        
+        ## Usage
+        
+        # Contributors
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.6
 Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
