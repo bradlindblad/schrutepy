@@ -1,5 +1,5 @@
 
-![logo](static/logo.png)
+![logo](https://github.com/bradlindblad/schrutepy/blob/master/static/logo.png?raw=true)
 
 -----------------
 # The complete transcripts of The Office (US) in a tidy dataframe

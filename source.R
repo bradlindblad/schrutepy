@@ -1,7 +1,7 @@
 library(schrute)
-
+library(feather)
 
 df <- schrute::theoffice
 
-write.csv(df, "{my desktop}")
-  
+feather::write_feather(df, "~/Desktop/schrute.feather")
+  write.csv(df, "~/Desktop/schrute.csv")
