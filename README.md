@@ -8,7 +8,7 @@
 
 
 # Getting started
-test
+tests
 ## Install
 
 ## Usage
