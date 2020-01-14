@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: schrutepy
-Version: 0.0.1
-Summary: A package to convert your Jupyter Notebook
+Version: 0.0.17
+Summary: The Entire Transcripts from the Office in Tidy Format
 Home-page: https://github.com/bradlindblad/schrutepy
 Author: Brad Lindblad
 Author-email: bradley.lindblad@gmail.com

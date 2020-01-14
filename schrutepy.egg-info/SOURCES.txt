@@ -1,5 +1,11 @@
 README.md
+requirements.txt
 setup.py
+source.R
+data/schrute.csv
+data/schrute.feather
+schrutepy/__init__.py
+schrutepy/schrutepy.py
 schrutepy.egg-info/PKG-INFO
 schrutepy.egg-info/SOURCES.txt
 schrutepy.egg-info/dependency_links.txt
