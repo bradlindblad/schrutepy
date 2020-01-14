@@ -3,4 +3,4 @@ twine==3.1.1
 wheel==0.33.6
 pytest==4.3.0
 pytest-cov==2.6.1
-coveralls==1.6.0
+coveralls==1.10.0
