@@ -1,7 +1,7 @@
-
 import pytest
 from schrutepy import schrutepy
 import pandas as pd
+
 
 def test_load_schrute():
 
@@ -11,7 +11,5 @@ def test_load_schrute():
 
     df = schrutepy.load_schrute()
     last_index = df.last_valid_index()
-    
 
     assert 55129 == last_index
-    

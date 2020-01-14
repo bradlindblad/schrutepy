@@ -1,5 +1,3 @@
-
-
 from setuptools import setup, find_packages
 
 with open("README.md", "r") as readme_file:
@@ -23,4 +21,3 @@ setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],
 )
-
