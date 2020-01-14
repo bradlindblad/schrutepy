@@ -6,3 +6,6 @@ install:
   - pip install -e .
 script:
   - pytest
+  - pytest --cov=schrutepy
+  after_success:
+    — coveralls
