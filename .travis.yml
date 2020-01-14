@@ -7,5 +7,5 @@ install:
 script:
   - pytest
   - pytest --cov=schrutepy
-  after_success:
+after_success:
   - coveralls
