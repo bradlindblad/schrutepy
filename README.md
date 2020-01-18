@@ -35,5 +35,8 @@ df = schrutepy.load_schrute()
 df.head(5)
 ```
 
+## Demo
+View the full demo on the [website: technistema](https://technistema.com/posts/python-text-analysis-with-the-schrutepy-package/)
+
 # Contributors
 - [Lucas Greybuck](https://github.com/hypercompetent)
