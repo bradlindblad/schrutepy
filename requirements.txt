@@ -4,4 +4,4 @@ wheel==0.34.2
 pytest==5.3.3
 pytest-cov==2.8.1
 coveralls==1.11.1
-black==19.10b0
+black==20.8b1
