@@ -1,5 +1,5 @@
 ipython>=6
+pandas
+pip
 twine>=3
 wheel
-pip
-pandas
