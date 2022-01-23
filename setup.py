@@ -7,7 +7,7 @@ requirements = ["ipython>=6", "twine>=3", "wheel", "pip", "pandas"]
 
 setup(
     name="schrutepy",
-    version="0.1.2",
+    version="0.1.3",
     author="Brad Lindblad",
     author_email="bradley.lindblad@gmail.com",
     description="The Entire Transcripts from the Office in Tidy Format",
