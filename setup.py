@@ -16,6 +16,7 @@ setup(
     url="https://github.com/bradlindblad/schrutepy",
     packages=find_packages(),
     install_requires=requirements,
+    include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
