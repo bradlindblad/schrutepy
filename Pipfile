@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+pytest = "==6.2.5"
+twine = "==3.7.1"
+black = "==21.12b0"
+pytest-cov = "==3.0.0"
+coveralls = "==3.3.1"
+
+[requires]
+python_version = "3.8"

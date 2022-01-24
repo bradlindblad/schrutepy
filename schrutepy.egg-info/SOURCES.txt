@@ -3,7 +3,6 @@
 LICENSE
 README.md
 README.pdf
-requirements.txt
 setup.py
 source.R
 data/schrute.csv
